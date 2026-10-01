@@ -185,9 +185,6 @@ rdmq-nq56
 неотложной помощи и связанных с ними показателей.
 
 ## Документация и лицензия
-
-* [README.md](https://github.com/malonekt/NSSP-Fetch/blob/main/README.md) -
-  основная информация о проекте и инструкции по запуску
 * `nssp_fetch_state_tx.py` - загрузка данных
 * `filter_nssp_tx.py` - фильтрация и очистка
 * `nssp_fetch_and_analysis.py` - анализ данных
